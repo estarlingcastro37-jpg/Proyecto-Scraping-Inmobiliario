@@ -25,5 +25,5 @@ El cuaderno de Colab contiene el código del scraper. El paquete de resultados c
 - [Código Python](scraper.py): permite revisar el código fuente directamente desde GitHub.
 - Para reproducir el proyecto, abrir el cuaderno en Google Colab, instalar las dependencias indicadas en su primera celda y ejecutar las celdas en orden.
 
-## Entrega de resultados
-Los archivos generados (Excel, Parquet, HTML, JSON y CSV) deben adjuntarse al repositorio o entregarse en el aula virtual. El ZIP de resultados todavía no está adjunto a este repositorio.
+## Resultados del proyecto
+En este apartado se encuentran los archivos generados por el programa, incluyendo los datos recopilados de las propiedades y los reportes del scraping.
