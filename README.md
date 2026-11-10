@@ -19,3 +19,11 @@ Python, Requests, BeautifulSoup, Pandas y ydata-profiling. El código principal 
 El cuaderno de Colab contiene el código del scraper. El paquete de resultados contiene los datos extraídos, las tablas consolidadas, el reporte de perfilado y el estado del scraping.
 
 > Trabajo académico grupal — ITLA.
+
+## Consultar y ejecutar el código
+- [Cuaderno de Google Colab](proyecto_final_colab.ipynb): permite visualizar el código organizado por celdas y abrirlo en Colab.
+- [Código Python](scraper.py): permite revisar el código fuente directamente desde GitHub.
+- Para reproducir el proyecto, abrir el cuaderno en Google Colab, instalar las dependencias indicadas en su primera celda y ejecutar las celdas en orden.
+
+## Entrega de resultados
+Los archivos generados (Excel, Parquet, HTML, JSON y CSV) deben adjuntarse al repositorio o entregarse en el aula virtual. El ZIP de resultados todavía no está adjunto a este repositorio.
